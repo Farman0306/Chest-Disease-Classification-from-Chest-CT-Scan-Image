@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ml/MLOPS_Projects/Chest-Disease-Classification-from-Chest-CT-Scan-Image/mlruns/0/313a53a0f6ef4ded9b94680918130c17/artifacts
+end_time: 1710746842721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 313a53a0f6ef4ded9b94680918130c17
+run_name: bedecked-wasp-356
+run_uuid: 313a53a0f6ef4ded9b94680918130c17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710746835285
+status: 3
+tags: []
+user_id: ml
