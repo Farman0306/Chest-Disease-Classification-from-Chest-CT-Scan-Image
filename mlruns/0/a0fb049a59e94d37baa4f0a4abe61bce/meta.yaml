@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ml/MLOPS_Projects/Chest-Disease-Classification-from-Chest-CT-Scan-Image/mlruns/0/a0fb049a59e94d37baa4f0a4abe61bce/artifacts
+end_time: 1710746647965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0fb049a59e94d37baa4f0a4abe61bce
+run_name: burly-wolf-301
+run_uuid: a0fb049a59e94d37baa4f0a4abe61bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710746638394
+status: 3
+tags: []
+user_id: ml
